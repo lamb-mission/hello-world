@@ -1,3 +1,3 @@
 # hello-world
 
-#Hi, this is my first repository for experimenting GitHub!
+Hi, this is my first repository for experimenting GitHub!
